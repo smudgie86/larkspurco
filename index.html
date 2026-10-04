@@ -11,28 +11,39 @@
 <meta property="og:url" content="https://larkspurco.uk/">
 <meta property="og:title" content="Larkspur &amp; Co. | Gentle printables for busy brains">
 <meta property="og:description" content="Undated, ADHD-friendly planners, worksheets and puzzle packs. Instant download, print at home.">
-<meta property="og:image" content="https://larkspurco.uk/assets/logo.png">
-<meta name="twitter:card" content="summary">
+<meta property="og:image" content="https://larkspurco.uk/assets/og-card.jpg">
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="630">
+<meta property="og:image:alt" content="Larkspur &amp; Co. logo with the line Gentle printables for busy brains">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:image" content="https://larkspurco.uk/assets/og-card.jpg">
 <script type="application/ld+json">{"@context":"https://schema.org","@type":"Organization","name":"Larkspur & Co.","url":"https://larkspurco.uk/","logo":"https://larkspurco.uk/assets/logo.png","sameAs":["https://www.etsy.com/shop/LarkspurCoDigital","https://uk.pinterest.com/LarkspurCoDigital/","https://www.tiktok.com/@larkspurco.uk","https://www.instagram.com/larkspurco.uk"]}</script>
-<link rel="preconnect" href="https://fonts.googleapis.com">
-<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700&display=swap" rel="stylesheet">
 <style>
-:root{--cream:#FBF7F1;--card:#fff;--sage:#7C8B6B;--sage-dark:#5B6650;--clay:#CC8B6D;--clay-dark:#B5765A;--clay-light:#F3E1D6;--ink:#3A352F;--ink-soft:#6B655C;--line:#E6DDCF}
+@font-face{font-family:Poppins;font-weight:400;font-style:normal;font-display:swap;src:url(assets/fonts/Poppins-Regular.ttf) format("truetype")}
+@font-face{font-family:Poppins;font-weight:500;font-style:normal;font-display:swap;src:url(assets/fonts/Poppins-Medium.ttf) format("truetype")}
+@font-face{font-family:Poppins;font-weight:600;font-style:normal;font-display:swap;src:url(assets/fonts/Poppins-SemiBold.ttf) format("truetype")}
+@font-face{font-family:Poppins;font-weight:700;font-style:normal;font-display:swap;src:url(assets/fonts/Poppins-Bold.ttf) format("truetype")}
+:root{--cream:#FBF7F1;--card:#fff;--sage:#7C8B6B;--sage-dark:#5B6650;--sage-deep:#47503E;--clay:#CC8B6D;--clay-deep:#94502F;--clay-deeper:#7F432B;--clay-light:#F3E1D6;--ink:#3A352F;--ink-soft:#6B655C;--line:#E6DDCF}
 *{box-sizing:border-box}html{scroll-behavior:smooth}
 body{margin:0;background:var(--cream);color:var(--ink);font-family:Poppins,system-ui,sans-serif;line-height:1.6;overflow-x:hidden}
-a{color:inherit}img{max-width:100%;display:block}
+a{color:inherit}img{max-width:100%;height:auto;display:block}
+.skip{position:absolute;left:12px;top:-60px;z-index:10;background:var(--sage-dark);color:#fff;padding:10px 16px;border-radius:10px;font-weight:600;text-decoration:none}.skip:focus{top:12px}
+.sr{position:absolute;width:1px;height:1px;overflow:hidden;clip:rect(0 0 0 0);white-space:nowrap}
+:focus-visible{outline:3px solid var(--sage-dark);outline-offset:3px;border-radius:4px}
+.code :focus-visible,.fcard.a :focus-visible{outline-color:#fff}
+main:focus{outline:none}
 .wrap{max-width:1040px;margin:0 auto;padding:0 20px}
-.bar{display:flex;align-items:center;justify-content:space-between;padding:16px 0}
+.bar{display:flex;align-items:center;justify-content:space-between;flex-wrap:wrap;gap:6px 16px;padding:16px 0}
 .bar img{height:44px;width:auto}
-.bar nav{display:flex;gap:20px;font-size:14px;font-weight:500}
+.bar nav{display:flex;flex-wrap:wrap;gap:4px 20px;font-size:14px;font-weight:500}
 .bar nav a{text-decoration:none;color:var(--ink-soft)}.bar nav a:hover{color:var(--sage-dark)}
-@media(max-width:560px){.bar nav a:not(.keep){display:none}}
+.bar nav a{padding:6px 0}
+@media(max-width:560px){.bar nav{width:100%;gap:2px 18px}}
 .btn{display:inline-block;text-align:center;text-decoration:none;font-weight:600;font-size:16px;padding:14px 26px;border-radius:12px;transition:transform .12s,background .12s}
 .btn:hover{transform:translateY(-1px)}
-.btn-clay{background:var(--clay);color:#fff}.btn-clay:hover{background:var(--clay-dark)}
+.btn-clay{background:var(--clay-deep);color:#fff}.btn-clay:hover{background:var(--clay-deeper)}
 .btn-ghost{background:transparent;color:var(--sage-dark);border:1.5px solid var(--sage)}.btn-ghost:hover{background:#fff}
-.btn-sage{background:var(--sage-dark);color:#fff}.btn-sage:hover{background:var(--sage)}
+.btn-sage{background:var(--sage-dark);color:#fff}.btn-sage:hover{background:var(--sage-deep)}
 .hero{display:grid;grid-template-columns:1.15fr .85fr;gap:36px;align-items:center;padding:36px 0 44px}
 .hero h1{font-size:clamp(32px,5vw,48px);line-height:1.12;margin:0 0 14px;color:var(--sage-dark)}
 .hero p.sub{font-size:18px;color:var(--ink-soft);margin:0 0 24px;max-width:520px}
@@ -47,7 +58,7 @@ a{color:inherit}img{max-width:100%;display:block}
 .code{background:var(--sage-dark);color:#fff;border-radius:14px;padding:16px 22px;text-align:center;font-size:15px;margin-bottom:56px}
 .code b{color:#F3E1D6}
 section{margin-bottom:64px}
-.kicker{font-size:12.5px;letter-spacing:2px;text-transform:uppercase;color:var(--clay);font-weight:600;margin:0 0 4px}
+.kicker{font-size:12.5px;letter-spacing:2px;text-transform:uppercase;color:var(--clay-deep);font-weight:600;margin:0 0 4px}
 h2{font-size:clamp(24px,3.4vw,32px);line-height:1.2;margin:0 0 8px;color:var(--sage-dark)}
 .lede{color:var(--ink-soft);margin:0 0 24px;max-width:640px}
 .needs{display:grid;grid-template-columns:repeat(3,1fr);gap:14px}
@@ -63,24 +74,25 @@ h2{font-size:clamp(24px,3.4vw,32px);line-height:1.2;margin:0 0 8px;color:var(--s
 .prod img{width:100%;aspect-ratio:1/1;object-fit:cover;background:var(--clay-light)}
 .prod .t{padding:12px 14px 4px;font-weight:600;font-size:14.5px;line-height:1.35}
 .prod .d{padding:0 14px;font-size:13px;color:var(--ink-soft);line-height:1.45;flex:1}
-.prod .p{padding:10px 14px 14px;font-weight:600;color:var(--clay-dark);font-size:14px}
+.prod .p{padding:10px 14px 14px;font-weight:600;color:var(--clay-deep);font-size:14px}
 .more{text-align:center;margin-top:22px}
 .steps{display:grid;grid-template-columns:repeat(3,1fr);gap:16px}
 @media(max-width:700px){.steps{grid-template-columns:1fr}}
 .step{background:var(--clay-light);border-radius:14px;padding:20px}
-.step i{font-style:normal;display:inline-flex;width:34px;height:34px;align-items:center;justify-content:center;background:var(--clay);color:#fff;border-radius:50%;font-weight:700;margin-bottom:8px}
+.step i{font-style:normal;display:inline-flex;width:34px;height:34px;align-items:center;justify-content:center;background:var(--clay-deep);color:#fff;border-radius:50%;font-weight:700;margin-bottom:8px}
 .step b{display:block;margin-bottom:2px}.step span{font-size:14px;color:var(--ink-soft)}
 .free{display:grid;grid-template-columns:1fr 1fr;gap:16px}
 @media(max-width:760px){.free{grid-template-columns:1fr}}
 .fcard{border-radius:16px;padding:26px}
 .fcard.a{background:var(--sage-dark);color:#fff}.fcard.b{background:var(--clay-light)}
-.fcard .tag{font-size:11.5px;letter-spacing:2px;text-transform:uppercase;font-weight:600;opacity:.8}
+.fcard .tag{font-size:11.5px;letter-spacing:2px;text-transform:uppercase;font-weight:600}
+.fcard.a .tag{color:#E3E8DA}.fcard.b .tag{color:var(--clay-deep)}
 .fcard h3{margin:6px 0 8px;font-size:22px;line-height:1.25}
 .fcard p{margin:0 0 18px;font-size:14.5px}
 .fcard.a p{color:#EEF1E8}.fcard.b p{color:var(--ink-soft)}
 .learn{display:grid;grid-template-columns:260px 1fr;gap:30px;align-items:center;background:var(--card);border:1px solid var(--line);border-radius:18px;padding:26px}
 @media(max-width:700px){.learn{grid-template-columns:1fr}.learn video{max-width:260px;margin:0 auto}}
-.learn video{width:100%;border-radius:14px;background:#5B6650}
+.learn video{width:100%;height:auto;aspect-ratio:9/16;border-radius:14px;background:#5B6650}
 .learn p{color:var(--ink-soft);margin:0 0 14px}
 .books{display:grid;grid-template-columns:repeat(4,1fr);gap:14px}
 @media(max-width:800px){.books{grid-template-columns:repeat(2,1fr)}}
@@ -89,19 +101,22 @@ h2{font-size:clamp(24px,3.4vw,32px);line-height:1.2;margin:0 0 8px;color:var(--s
 .book span{display:block;padding:9px 11px 11px;font-size:13.5px;font-weight:500;line-height:1.35}
 .about{text-align:center;max-width:640px;margin:0 auto 64px}
 .about p{color:var(--ink-soft)}
+@media(prefers-reduced-motion:reduce){html{scroll-behavior:auto}*{transition:none!important}.btn:hover,.need:hover,.prod:hover{transform:none}}
 footer{border-top:1px solid var(--line);padding:28px 0 44px;text-align:center;font-size:13px;color:var(--ink-soft)}
 footer .soc{display:flex;gap:18px;justify-content:center;flex-wrap:wrap;margin-bottom:12px;font-weight:500;font-size:14px}
 footer .soc a{text-decoration:none;color:var(--sage-dark)}footer p{margin:4px 0}
 </style>
 </head>
 <body>
+<a class="skip" href="#main">Skip to content</a>
 <div class="wrap">
-  <div class="bar">
-    <a href="/"><img src="assets/logo.png" alt="Larkspur &amp; Co."></a>
-    <nav><a href="#shop">Shop</a><a href="#free">Free downloads</a><a href="#learn">Learn</a><a href="#books">Puzzle books</a><a class="keep" href="https://www.etsy.com/shop/LarkspurCoDigital"><strong style="color:var(--clay-dark)">Etsy shop</strong></a></nav>
-  </div>
+  <header class="bar">
+    <a href="/"><img src="assets/logo.png" width="700" height="233" alt="Larkspur &amp; Co. home"></a>
+    <nav aria-label="Main"><a href="#shop">Shop</a><a href="#free">Free downloads</a><a href="#learn">Learn</a><a href="#books">Puzzle books</a><a class="keep" href="https://www.etsy.com/shop/LarkspurCoDigital"><strong style="color:var(--clay-deep)">Etsy shop</strong></a></nav>
+  </header>
 
-  <header class="hero">
+  <main id="main" tabindex="-1">
+  <div class="hero">
     <div>
       <p class="kicker">Printables for ADHD and busy brains</p>
       <h1>Gentle planners for the days your brain won't play ball.</h1>
@@ -113,10 +128,10 @@ footer .soc a{text-decoration:none;color:var(--sage-dark)}footer p{margin:4px 0}
       <ul class="trust"><li>Instant download</li><li>Undated: start any day</li><li>Print at home</li><li>Made in Glasgow</li></ul>
     </div>
     <div class="hero-img"><div class="stack">
-      <img src="assets/products/4587312265.jpg" alt="Task Paralysis Rescue Kit printable">
-      <img src="assets/products/4587312519.jpg" alt="Energy Matched Time Blocking Planner printable">
+      <img src="assets/products/4587312265.jpg" width="570" height="570" alt="Task Paralysis Rescue Kit printable">
+      <img src="assets/products/4587312519.jpg" width="570" height="570" alt="Energy Matched Time Blocking Planner printable">
     </div></div>
-  </header>
+  </div>
 
   <div class="code">Found us on TikTok, Instagram or Pinterest? Use the <b>30% off code from the post</b> at checkout on Etsy.</div>
 
@@ -139,14 +154,14 @@ footer .soc a{text-decoration:none;color:var(--sage-dark)}footer p{margin:4px 0}
     <h2>Popular ways to begin</h2>
     <p class="lede">New to Larkspur &amp; Co.? These are good first picks.</p>
     <div class="products">
-      <a class="prod" href="https://www.etsy.com/uk/listing/4587312265"><img loading="lazy" src="assets/products/4587312265.jpg" alt="Task Paralysis Rescue Kit"><div class="t">Task Paralysis Rescue Kit</div><div class="d">Worksheets for the days you know what to do but can't start.</div><div class="p">£4.50</div></a>
-      <a class="prod" href="https://www.etsy.com/uk/listing/4587317852"><img loading="lazy" src="assets/products/4587317852.jpg" alt="Decision Fatigue Reset Pad"><div class="t">Decision Fatigue Reset Pad</div><div class="d">Fewer choices, quicker answers, a calmer end to the day.</div><div class="p">£3.95</div></a>
-      <a class="prod" href="https://www.etsy.com/uk/listing/4587312519"><img loading="lazy" src="assets/products/4587312519.jpg" alt="Energy Matched Time Blocking Planner"><div class="t">Energy Matched Time Blocking Planner</div><div class="d">Plan around your energy instead of the clock.</div><div class="p">£4.50</div></a>
-      <a class="prod" href="https://www.etsy.com/uk/listing/4577025062"><img loading="lazy" src="assets/products/4577025062.jpg" alt="Reset ADHD weekly planner"><div class="t">Reset: ADHD Weekly Planner</div><div class="d">Undated, with a top three, a brain dump and a gentle tracker.</div><div class="p">£4.50</div></a>
-      <a class="prod" href="https://www.etsy.com/uk/listing/4577049712"><img loading="lazy" src="assets/products/4577049712.jpg" alt="Spoon Theory daily planner"><div class="t">Spoon Theory Daily Planner</div><div class="d">Spend your energy on purpose, with low-spoons day pages.</div><div class="p">£4.50</div></a>
-      <a class="prod" href="https://www.etsy.com/uk/listing/4581636343"><img loading="lazy" src="assets/products/4581636343.jpg" alt="Monthly budget planner spreadsheet"><div class="t">Monthly Budget Planner</div><div class="d">Editable spreadsheet for Excel and Google Sheets.</div><div class="p">£4.50</div></a>
-      <a class="prod" href="https://www.etsy.com/uk/listing/4582432126"><img loading="lazy" src="assets/products/4582432126.jpg" alt="Christmas planner printable"><div class="t">Christmas Planner 2026</div><div class="d">Budget, gift list, countdown and Christmas Day plan.</div><div class="p">£4.50</div></a>
-      <a class="prod" href="https://www.etsy.com/uk/listing/4583379208"><img loading="lazy" src="assets/products/4583379208.jpg" alt="Home Reset Kit"><div class="t">Home Reset Kit</div><div class="d">Weekly and monthly reset planners in one bundle.</div><div class="p">£7.50</div></a>
+      <a class="prod" href="https://www.etsy.com/uk/listing/4587312265"><img loading="lazy" width="570" height="570" src="assets/products/4587312265.jpg" alt="Task Paralysis Rescue Kit"><div class="t">Task Paralysis Rescue Kit</div><div class="d">Worksheets for the days you know what to do but can't start.</div><div class="p">£4.50</div></a>
+      <a class="prod" href="https://www.etsy.com/uk/listing/4587317852"><img loading="lazy" width="570" height="570" src="assets/products/4587317852.jpg" alt="Decision Fatigue Reset Pad"><div class="t">Decision Fatigue Reset Pad</div><div class="d">Fewer choices, quicker answers, a calmer end to the day.</div><div class="p">£3.95</div></a>
+      <a class="prod" href="https://www.etsy.com/uk/listing/4587312519"><img loading="lazy" width="570" height="570" src="assets/products/4587312519.jpg" alt="Energy Matched Time Blocking Planner"><div class="t">Energy Matched Time Blocking Planner</div><div class="d">Plan around your energy instead of the clock.</div><div class="p">£4.50</div></a>
+      <a class="prod" href="https://www.etsy.com/uk/listing/4577025062"><img loading="lazy" width="570" height="570" src="assets/products/4577025062.jpg" alt="Reset ADHD weekly planner"><div class="t">Reset: ADHD Weekly Planner</div><div class="d">Undated, with a top three, a brain dump and a gentle tracker.</div><div class="p">£4.50</div></a>
+      <a class="prod" href="https://www.etsy.com/uk/listing/4577049712"><img loading="lazy" width="570" height="570" src="assets/products/4577049712.jpg" alt="Spoon Theory daily planner"><div class="t">Spoon Theory Daily Planner</div><div class="d">Spend your energy on purpose, with low-spoons day pages.</div><div class="p">£4.50</div></a>
+      <a class="prod" href="https://www.etsy.com/uk/listing/4581636343"><img loading="lazy" width="570" height="570" src="assets/products/4581636343.jpg" alt="Monthly budget planner spreadsheet"><div class="t">Monthly Budget Planner</div><div class="d">Editable spreadsheet for Excel and Google Sheets.</div><div class="p">£4.50</div></a>
+      <a class="prod" href="https://www.etsy.com/uk/listing/4582432126"><img loading="lazy" width="570" height="570" src="assets/products/4582432126.jpg" alt="Christmas planner printable"><div class="t">Christmas Planner 2026</div><div class="d">Budget, gift list, countdown and Christmas Day plan.</div><div class="p">£4.50</div></a>
+      <a class="prod" href="https://www.etsy.com/uk/listing/4583379208"><img loading="lazy" width="570" height="570" src="assets/products/4583379208.jpg" alt="Home Reset Kit"><div class="t">Home Reset Kit</div><div class="d">Weekly and monthly reset planners in one bundle.</div><div class="p">£7.50</div></a>
     </div>
     <div class="more"><a class="btn btn-clay" href="https://www.etsy.com/shop/LarkspurCoDigital">See everything in the shop</a></div>
   </section>
@@ -166,8 +181,8 @@ footer .soc a{text-decoration:none;color:var(--sage-dark)}footer p{margin:4px 0}
     <h2>Try us for free</h2>
     <p class="lede">Pop your email in and the download lands in your inbox. Opt-in only, and you can unsubscribe at any time.</p>
     <div class="free">
-      <div class="fcard a"><div class="tag">Free printable</div><h3>The Overwhelm First-Aid Card</h3><p>A "Stuck? Start here" flowchart and eight pocket prompt cards for the days when everything feels like too much.</p><a class="btn btn-clay" href="https://preview.mailerlite.io/forms/2657870/199498192473032274/share">Get the free card</a></div>
-      <div class="fcard b"><div class="tag" style="color:var(--clay-dark)">Free for puzzle lovers</div><h3>The Free Puzzle Pack</h3><p>Ten puzzles to print at home: large print word searches, sudoku, mazes and word ladders, with answers at the back.</p><a class="btn btn-sage" href="https://preview.mailerlite.io/forms/2657870/199596389124015304/share">Send me the puzzle pack</a></div>
+      <div class="fcard a"><div class="tag">Free printable</div><h3>The Overwhelm First-Aid Card</h3><p>A "Stuck? Start here" flowchart and eight pocket prompt cards for the days when everything feels like too much.</p><a class="btn btn-clay" href="https://preview.mailerlite.io/forms/2657870/199498192473032274/share">Get the free card<span class="sr"> (The Overwhelm First-Aid Card)</span></a></div>
+      <div class="fcard b"><div class="tag">Free for puzzle lovers</div><h3>The Free Puzzle Pack</h3><p>Ten puzzles to print at home: large print word searches, sudoku, mazes and word ladders, with answers at the back.</p><a class="btn btn-sage" href="https://preview.mailerlite.io/forms/2657870/199596389124015304/share">Send me the puzzle pack<span class="sr"> (The Free Puzzle Pack)</span></a></div>
     </div>
   </section>
 
@@ -195,13 +210,15 @@ footer .soc a{text-decoration:none;color:var(--sage-dark)}footer p{margin:4px 0}
     <h2>Robertson &amp; McGarrigle Books</h2>
     <p class="lede">Printed puzzle books for relaxing evenings, long journeys and thoughtful gifts, available on Amazon.</p>
     <div class="books">
-      <a class="book" href="https://www.amazon.co.uk/dp/B0HHZNGVLG"><img loading="lazy" src="https://raw.githubusercontent.com/smudgie86/larkspur-pins/main/pin-kdp-large-print-puzzles.jpg" alt="Big Book of Large Print Puzzles"><span>Big Book of Large Print Puzzles</span></a>
-      <a class="book" href="https://www.amazon.co.uk/dp/B0HJ6QHW95"><img loading="lazy" src="https://raw.githubusercontent.com/smudgie86/larkspur-pins/main/pin-kdp-scotland-word-search.jpg" alt="Scotland word search book"><span>Scotland Word Search (large print)</span></a>
-      <a class="book" href="https://www.amazon.co.uk/dp/B0HJ39M51C"><img loading="lazy" src="https://raw.githubusercontent.com/smudgie86/larkspur-pins/main/pin-kdp-christmas-word-search.jpg" alt="Christmas word search book"><span>Christmas Word Search</span></a>
-      <a class="book" href="https://www.amazon.co.uk/dp/B0HHZHZQVV"><img loading="lazy" src="https://raw.githubusercontent.com/smudgie86/larkspur-pins/main/pin-kdp-autumn-puzzles.jpg" alt="Big Book of Autumn Puzzles"><span>Big Book of Autumn Puzzles</span></a>
+      <a class="book" href="https://www.amazon.co.uk/dp/B0HHZNGVLG"><img loading="lazy" width="600" height="900" src="assets/books/large-print-puzzles.jpg" alt="Big Book of Large Print Puzzles"><span>Big Book of Large Print Puzzles</span></a>
+      <a class="book" href="https://www.amazon.co.uk/dp/B0HJ6QHW95"><img loading="lazy" width="600" height="900" src="assets/books/scotland-word-search.jpg" alt="Scotland word search book"><span>Scotland Word Search (large print)</span></a>
+      <a class="book" href="https://www.amazon.co.uk/dp/B0HJ39M51C"><img loading="lazy" width="600" height="900" src="assets/books/christmas-word-search.jpg" alt="Christmas word search book"><span>Christmas Word Search</span></a>
+      <a class="book" href="https://www.amazon.co.uk/dp/B0HHZHZQVV"><img loading="lazy" width="600" height="900" src="assets/books/autumn-puzzles.jpg" alt="Big Book of Autumn Puzzles"><span>Big Book of Autumn Puzzles</span></a>
     </div>
     <div class="more"><a class="btn btn-ghost" href="https://www.amazon.co.uk/s?k=%22Robertson+%26+McGarrigle+Books%22&amp;i=stripbooks">See all our puzzle books</a></div>
   </section>
+
+  </main>
 
   <footer>
     <div class="soc"><a href="https://www.etsy.com/shop/LarkspurCoDigital">Etsy</a><a href="https://www.tiktok.com/@larkspurco.uk">TikTok</a><a href="https://www.instagram.com/larkspurco.uk">Instagram</a><a href="https://uk.pinterest.com/LarkspurCoDigital/">Pinterest</a></div>
