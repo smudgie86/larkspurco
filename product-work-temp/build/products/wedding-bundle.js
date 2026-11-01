@@ -1,0 +1,25 @@
+module.exports = {
+  file: 'Wedding-Mega-Bundle', title: 'The Wedding Mega Bundle', short: 'Wedding Mega Bundle', pages: [],
+  meta: {
+    pdf: 'showcase.pdf', pages: 11, short: 'The Wedding<br>Mega Bundle', kicker: 'Planner · Spreadsheet · Editable stationery', sub: 'Plan it, budget it and print it: everything for your wedding in one download.',
+    hero: [1, 2], grid: [[5, 'Save the date &amp; invitations'], [3, 'Budget &amp; guest dashboard'], [6, 'Seating plan sign'], [4, 'The Calm Wedding Planner'], [7, 'Table numbers'], [8, 'Place cards']],
+    detail: 3, detailTitle: 'A budget that adds itself up', detailPoints: ['Planned vs booked, by category', 'Payments linked to your budget', 'RSVPs, meal choices and dietary needs', 'Table counts that warn when full'],
+    features: [['The Calm Wedding Planner', 'Printable planner: priorities, countdown, suppliers, the day'], ['Budget &amp; Guest Manager', 'Excel and Google Sheets spreadsheet with a dashboard'], ['Invitation suite', 'Save the date, invitation, evening, details, RSVP, menu, thank you'], ['Signs &amp; table pieces', '8 signs, table numbers and place cards, all editable']],
+    pins: [['Everything for your wedding, in one bundle', 'Planner, spreadsheet and editable stationery', 1], ['Wedding budget spreadsheet', 'Budget, payments, RSVPs and meals', 3], ['Editable wedding invitations', 'Change the words in PowerPoint, Keynote or Canva', 2]],
+    insideSub: 'Printable planner · spreadsheet · editable PowerPoint stationery', heroFoot: 'Instant download · Print at home or at a print shop',
+    stepsTitle: 'Instant download.<br>Edit. Print.', steps: [['Download', 'Your files are ready straight away from your Etsy account.'], ['Edit', 'Change names, dates and details in PowerPoint, Keynote, Google Slides or Canva.'], ['Print', 'Print at home or send the PDF to a local print shop.']],
+    included: 'Calm Wedding Planner PDF (A4 + US Letter), Budget &amp; Guest Manager spreadsheet, 4 editable stationery files and a how-to guide', useNote: 'Personalise and print for your own wedding', pinFoot: 'Instant download · Editable',
+    listing: {
+      price: '£39.95', title: 'Wedding Planner Bundle, Editable Wedding Invitation Template Suite, Wedding Budget Spreadsheet, Guest List, Welcome Sign, Seating Chart',
+      tags: ['wedding bundle', 'wedding planner', 'wedding invitation', 'editable invitation', 'wedding budget', 'guest list template', 'seating chart', 'wedding signs', 'save the date', 'table numbers', 'place cards', 'botanical wedding', 'uk wedding'],
+      hook: 'Plan it, budget it and print it: everything for your wedding in one download.',
+      body: ['The Wedding Mega Bundle brings together our Calm Wedding Planner, a Budget & Guest Manager spreadsheet and a full editable stationery suite in a soft botanical design. Plan calmly, keep the money on track, and print beautiful stationery without paying a designer.',
+        'THE CALM WEDDING PLANNER (printable PDF, A4 + US Letter):\n• Priorities, budget, payments and countdown checklists\n• Guest list, RSVPs, venue comparison and suppliers\n• Ceremony plan, day timeline, seating, menu and emergency kit',
+        'BUDGET & GUEST MANAGER (Excel and Google Sheets):\n• Dashboard: days to go, budget left, paid so far, still to pay, RSVPs\n• Budget by category with your own split, linked to a payments log\n• Guest list with RSVPs, meal choices, dietary needs, tables, gifts and thank-yous\n• Meal totals for your caterer and table counts that warn when a table is full\n• Filled-in example',
+        'EDITABLE STATIONERY (PowerPoint, also opens in Keynote, Google Slides and Canva):\n• Invitation suite (5x7 in): save the date, invitation, evening invitation, details card, RSVP, menu, thank-you card\n• Signs (A3, scale to A2 or A1): welcome, order of the day, seating plan, unplugged ceremony, cards & gifts, signature drinks, choose a seat, in loving memory\n• Table numbers (4x6 in): Top table and One to Twelve\n• Place cards: 10 per A4 sheet',
+        'Uses two free Google fonts (links included). A step-by-step "how to edit and print" guide is included. This is a digital download: nothing will be posted.'],
+      pinCopy: [['Everything for your wedding, in one bundle', 'Planner, budget spreadsheet and editable stationery.'], ['Editable wedding invitation suite', 'Save the date to thank-you cards, edit in PowerPoint or Canva.'], ['Wedding budget and guest list spreadsheet', 'RSVPs, meals and tables that add themselves up.'], ['Botanical wedding signs', 'Welcome, seating plan, unplugged and more, all editable.'], ['A calm wedding planner', 'Plan your wedding without the overwhelm.']],
+      prompts: ['A flat lay of a blank white wedding invitation card and envelope with a sprig of eucalyptus, dried lavender, a pair of gold rings and a silk ribbon on a linen tablecloth, soft natural light, warm cream and muted sage green palette, photorealistic, 4:5', 'A blank white A3 welcome sign on a wooden easel at a rustic barn wedding with greenery and soft fairy lights, sign area empty, soft natural light, cream and sage palette, photorealistic, 4:5'],
+    },
+  },
+};

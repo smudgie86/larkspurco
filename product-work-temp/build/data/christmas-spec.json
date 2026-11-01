@@ -1,0 +1,32 @@
+{"seed": 2512,
+"wordsearch": [
+ {"title": "Christmas Eve", "words": ["Stocking", "Mince pies", "Carols", "Candles", "Fireside", "Presents", "Reindeer", "Chimney", "Midnight", "Sleigh", "Wrapping", "Santa"]},
+ {"title": "Christmas Dinner", "words": ["Turkey", "Stuffing", "Gravy", "Sprouts", "Parsnips", "Crackers", "Pudding", "Custard", "Carrots", "Potatoes", "Cranberry", "Bread sauce"]},
+ {"title": "Decorations", "words": ["Tinsel", "Bauble", "Garland", "Wreath", "Lights", "Star", "Angel", "Holly", "Ivy", "Mistletoe", "Candle", "Paper chain"]},
+ {"title": "Winter Weather", "words": ["Snowflake", "Frost", "Blizzard", "Icicle", "Sleet", "Hail", "Fog", "Chill", "Freeze", "Snowdrift", "Wind chill", "Thaw"]},
+ {"title": "Carols & Songs", "words": ["Noel", "Gloria", "Wenceslas", "Bethlehem", "Shepherds", "Manger", "Herald", "Wassail", "Choir", "Descant", "Hymn", "Advent"]},
+ {"title": "Santa's Reindeer", "words": ["Elves", "Toys", "North Pole", "Rudolph", "Dasher", "Dancer", "Prancer", "Vixen", "Comet", "Cupid", "Donner", "Blitzen"]},
+ {"title": "A Cosy Night In", "words": ["Blanket", "Slippers", "Cocoa", "Candlelight", "Fire", "Sofa", "Cushion", "Film", "Jigsaw", "Book", "Teapot", "Pyjamas"]},
+ {"title": "Wrap Up Warm", "words": ["Scarf", "Gloves", "Mittens", "Bobble hat", "Wellies", "Coat", "Jumper", "Thermals", "Earmuffs", "Boots", "Cardigan", "Socks"]},
+ {"title": "Christmas Baking", "words": ["Gingerbread", "Shortbread", "Stollen", "Yule log", "Mincemeat", "Icing", "Marzipan", "Cinnamon", "Nutmeg", "Raisins", "Sultanas", "Cherries"]},
+ {"title": "Winter Wildlife", "words": ["Robin", "Penguin", "Polar bear", "Seal", "Owl", "Stoat", "Hedgehog", "Squirrel", "Badger", "Fox", "Hare", "Wren"]},
+ {"title": "Oh Yes It Is! Panto", "words": ["Cinderella", "Aladdin", "Dame", "Genie", "Prince", "Villain", "Beanstalk", "Puss in Boots", "Stage", "Curtain", "Audience", "Encore"]},
+ {"title": "The Nativity", "words": ["Mary", "Joseph", "Donkey", "Stable", "Inn", "Star", "Wise men", "Gold", "Frankincense", "Myrrh", "Shepherd", "Lamb"]},
+ {"title": "The Christmas Tree", "words": ["Pine", "Spruce", "Fir", "Needles", "Branch", "Trunk", "Lights", "Fairy", "Topper", "Stand", "Baubles", "Tinsel"]},
+ {"title": "Snow Day", "words": ["Snowman", "Sledge", "Snowball", "Igloo", "Carrot", "Buttons", "Shovel", "Footprints", "Snow angel", "Toboggan", "Slide", "Mittens"]},
+ {"title": "Happy New Year", "words": ["Hogmanay", "Fireworks", "Midnight", "Countdown", "Resolution", "Party", "Toast", "Bells", "First foot", "Calendar", "Auld Lang Syne", "Cheers"]},
+ {"title": "Under the Tree", "words": ["Bicycle", "Puzzle", "Perfume", "Book", "Doll", "Train set", "Chocolates", "Socks", "Watch", "Scarf", "Board game", "Voucher"]},
+ {"title": "Winter Plants", "words": ["Snowdrop", "Hellebore", "Poinsettia", "Amaryllis", "Cyclamen", "Holly", "Ivy", "Mistletoe", "Winter jasmine", "Heather", "Pansy", "Camellia"]},
+ {"title": "Boxing Day", "words": ["Leftovers", "Walk", "Sales", "Sandwiches", "Football", "Nap", "Board games", "Trifle", "Visits", "Pickles", "Cold meat", "Relax"]},
+ {"title": "On the Ice", "words": ["Ice rink", "Skates", "Spin", "Glide", "Twirl", "Blade", "Laces", "Curling", "Hockey", "Puck", "Figure", "Skater"]},
+ {"title": "Christmas Morning", "words": ["Stockings", "Ribbon", "Bows", "Gift tags", "Surprise", "Breakfast", "Church", "Family", "Laughter", "Cuddles", "Excitement", "Wrapping"]}
+],
+"sudoku": 10, "mazes": 6,
+"scramble": [
+ {"title": "Christmas Dinner", "hint": "Things on the table", "words": ["Turkey", "Gravy", "Sprouts", "Stuffing", "Parsnips", "Crackers", "Pudding", "Custard", "Potatoes", "Carrots"]},
+ {"title": "Deck the Halls", "hint": "Decorations", "words": ["Tinsel", "Bauble", "Garland", "Wreath", "Lights", "Angel", "Holly", "Candle", "Mistletoe", "Star"]},
+ {"title": "Baby, It's Cold Outside", "hint": "Winter weather", "words": ["Frost", "Snow", "Icicle", "Sleet", "Blizzard", "Freeze", "Chilly", "Hail", "Thaw", "Fog"]},
+ {"title": "Santa's Helpers", "hint": "Reindeer and friends", "words": ["Rudolph", "Dasher", "Dancer", "Prancer", "Vixen", "Comet", "Cupid", "Donner", "Blitzen", "Elves"]},
+ {"title": "Wrap Up Warm", "hint": "Winter clothes", "words": ["Scarf", "Gloves", "Mittens", "Coat", "Jumper", "Boots", "Socks", "Wellies", "Hat", "Cardigan"]},
+ {"title": "Festive Bakes", "hint": "From the oven", "words": ["Mince pie", "Stollen", "Shortbread", "Gingerbread", "Yule log", "Icing", "Marzipan", "Cinnamon", "Trifle", "Fudge"]}
+]}

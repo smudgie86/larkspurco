@@ -1,0 +1,1188 @@
+{
+ "seed": 9002,
+ "wordsearch": [
+  {
+   "title": "Cities & Towns",
+   "words": [
+    "Glasgow",
+    "Edinburgh",
+    "Aberdeen",
+    "Dundee",
+    "Inverness",
+    "Stirling",
+    "Perth",
+    "Dunfermline",
+    "Ayr",
+    "Oban",
+    "Elgin",
+    "Paisley"
+   ]
+  },
+  {
+   "title": "Island Hopping",
+   "words": [
+    "Skye",
+    "Mull",
+    "Islay",
+    "Arran",
+    "Lewis",
+    "Harris",
+    "Orkney",
+    "Shetland",
+    "Iona",
+    "Jura",
+    "Tiree",
+    "Barra"
+   ]
+  },
+  {
+   "title": "The Lochs",
+   "words": [
+    "Lomond",
+    "Ness",
+    "Tay",
+    "Awe",
+    "Katrine",
+    "Maree",
+    "Shiel",
+    "Fyne",
+    "Linnhe",
+    "Rannoch",
+    "Leven",
+    "Morar"
+   ]
+  },
+  {
+   "title": "Hills & Mountains",
+   "words": [
+    "Ben Nevis",
+    "Cairngorm",
+    "Ben Lomond",
+    "Schiehallion",
+    "Ben Macdui",
+    "Munro",
+    "Glencoe",
+    "Cuillin",
+    "Buachaille",
+    "Ben Lawers",
+    "Torridon",
+    "Arthurs Seat"
+   ]
+  },
+  {
+   "title": "A Taste of Scotland",
+   "words": [
+    "Haggis",
+    "Neeps",
+    "Tatties",
+    "Shortbread",
+    "Cranachan",
+    "Cullen skink",
+    "Porridge",
+    "Oatcakes",
+    "Tablet",
+    "Stovies",
+    "Bridie",
+    "Scotch pie"
+   ]
+  },
+  {
+   "title": "Scottish Wildlife",
+   "words": [
+    "Red deer",
+    "Highland cow",
+    "Red squirrel",
+    "Golden eagle",
+    "Osprey",
+    "Puffin",
+    "Otter",
+    "Pine marten",
+    "Capercaillie",
+    "Wildcat",
+    "Seal",
+    "Dolphin"
+   ]
+  },
+  {
+   "title": "Highland Dress",
+   "words": [
+    "Kilt",
+    "Sporran",
+    "Tartan",
+    "Sgian dubh",
+    "Brogues",
+    "Plaid",
+    "Bonnet",
+    "Ghillies",
+    "Kilt pin",
+    "Sash",
+    "Tweed",
+    "Hose"
+   ]
+  },
+  {
+   "title": "Burns Night",
+   "words": [
+    "Rabbie Burns",
+    "Haggis",
+    "Supper",
+    "Address",
+    "Poem",
+    "Selkirk Grace",
+    "Piper",
+    "Toast",
+    "Lassies",
+    "Laddies",
+    "Dram",
+    "Ceilidh"
+   ]
+  },
+  {
+   "title": "At the Ceilidh",
+   "words": [
+    "Fiddle",
+    "Accordion",
+    "Bagpipes",
+    "Drum",
+    "Reel",
+    "Jig",
+    "Strathspey",
+    "Gay Gordons",
+    "Eightsome",
+    "Dance",
+    "Caller",
+    "Swing"
+   ]
+  },
+  {
+   "title": "Castles",
+   "words": [
+    "Edinburgh",
+    "Stirling",
+    "Urquhart",
+    "Eilean Donan",
+    "Balmoral",
+    "Dunnottar",
+    "Glamis",
+    "Cawdor",
+    "Blair",
+    "Culzean",
+    "Dunrobin",
+    "Inveraray"
+   ]
+  },
+  {
+   "title": "Rivers",
+   "words": [
+    "Clyde",
+    "Tay",
+    "Spey",
+    "Tweed",
+    "Forth",
+    "Dee",
+    "Don",
+    "Ness",
+    "Teviot",
+    "Esk",
+    "Nith",
+    "Annan"
+   ]
+  },
+  {
+   "title": "Braw Scots Words",
+   "words": [
+    "Bairn",
+    "Wee",
+    "Braw",
+    "Dreich",
+    "Glaikit",
+    "Blether",
+    "Peely-wally",
+    "Haver",
+    "Scunnered",
+    "Crabbit",
+    "Outwith",
+    "Ken"
+   ]
+  },
+  {
+   "title": "Four Seasons in a Day",
+   "words": [
+    "Dreich",
+    "Haar",
+    "Smirr",
+    "Drizzle",
+    "Gale",
+    "Squall",
+    "Mist",
+    "Sunshine",
+    "Rainbow",
+    "Sleet",
+    "Breeze",
+    "Blustery"
+   ]
+  },
+  {
+   "title": "Highland Games",
+   "words": [
+    "Caber",
+    "Hammer",
+    "Shot put",
+    "Tug of war",
+    "Pipe band",
+    "Dancing",
+    "Chieftain",
+    "Clan",
+    "Tartan",
+    "Relay",
+    "Hill race",
+    "Stone"
+   ]
+  },
+  {
+   "title": "Dear Green Place: Glasgow",
+   "words": [
+    "Clyde",
+    "Subway",
+    "Kelvingrove",
+    "Armadillo",
+    "Barrowland",
+    "Merchant City",
+    "George Square",
+    "Riverside",
+    "Necropolis",
+    "Botanic",
+    "Hampden",
+    "West End"
+   ]
+  },
+  {
+   "title": "Auld Reekie: Edinburgh",
+   "words": [
+    "Castle",
+    "Royal Mile",
+    "Holyrood",
+    "Calton Hill",
+    "Fringe",
+    "Tattoo",
+    "Princes Street",
+    "Grassmarket",
+    "Leith",
+    "Meadows",
+    "Arthurs Seat",
+    "Greyfriars"
+   ]
+  },
+  {
+   "title": "By the Sea",
+   "words": [
+    "Lighthouse",
+    "Harbour",
+    "Fishing",
+    "Lobster",
+    "Creel",
+    "Puffin",
+    "Cliffs",
+    "Beach",
+    "Machair",
+    "Ferry",
+    "Seaweed",
+    "Tide"
+   ]
+  },
+  {
+   "title": "The Clans",
+   "words": [
+    "MacDonald",
+    "Campbell",
+    "Stewart",
+    "MacLeod",
+    "Fraser",
+    "Gordon",
+    "MacKenzie",
+    "Murray",
+    "Robertson",
+    "MacGregor",
+    "Buchanan",
+    "MacKay"
+   ]
+  },
+  {
+   "title": "Famous Scots",
+   "words": [
+    "Burns",
+    "Scott",
+    "Stevenson",
+    "Wallace",
+    "Bruce",
+    "Baird",
+    "Fleming",
+    "Watt",
+    "Carnegie",
+    "Mackintosh",
+    "Livingstone",
+    "Muir"
+   ]
+  },
+  {
+   "title": "In the Glen",
+   "words": [
+    "Heather",
+    "Thistle",
+    "Bracken",
+    "Glen",
+    "Bothy",
+    "Burn",
+    "Croft",
+    "Stag",
+    "Pine",
+    "Moor",
+    "Cairn",
+    "Dyke"
+   ]
+  },
+  {
+   "title": "Hogmanay",
+   "words": [
+    "First foot",
+    "Bells",
+    "Midnight",
+    "Shortbread",
+    "Black bun",
+    "Coal",
+    "Whisky",
+    "Auld Lang Syne",
+    "Fireworks",
+    "Street party",
+    "New Year",
+    "Ceilidh"
+   ]
+  },
+  {
+   "title": "Towns Near & Far",
+   "words": [
+    "Falkirk",
+    "Livingston",
+    "Kirkcaldy",
+    "Dumfries",
+    "Hamilton",
+    "Kilmarnock",
+    "Greenock",
+    "Arbroath",
+    "Fort William",
+    "Peebles",
+    "Montrose",
+    "Nairn"
+   ]
+  },
+  {
+   "title": "Scottish Football Clubs",
+   "words": [
+    "Aberdeen",
+    "Hibernian",
+    "Hearts",
+    "Celtic",
+    "Rangers",
+    "Motherwell",
+    "Kilmarnock",
+    "St Mirren",
+    "Dundee United",
+    "Ross County",
+    "St Johnstone",
+    "Livingston"
+   ]
+  },
+  {
+   "title": "Whisky Country",
+   "words": [
+    "Speyside",
+    "Islay",
+    "Highland",
+    "Lowland",
+    "Campbeltown",
+    "Distillery",
+    "Cask",
+    "Malt",
+    "Barley",
+    "Peat",
+    "Dram",
+    "Quaich"
+   ]
+  },
+  {
+   "title": "The Bard: Robert Burns",
+   "words": [
+    "Alloway",
+    "Ayrshire",
+    "Dumfries",
+    "Ploughman",
+    "Poet",
+    "Bard",
+    "Songs",
+    "Mauchline",
+    "Jean Armour",
+    "Kilmarnock",
+    "Mouse",
+    "Haggis"
+   ]
+  },
+  {
+   "title": "Scottish Firsts",
+   "words": [
+    "Television",
+    "Telephone",
+    "Penicillin",
+    "Kaleidoscope",
+    "Ultrasound",
+    "Raincoat",
+    "Logarithms",
+    "Cloning",
+    "Golf",
+    "Curling",
+    "Pneumatic tyre",
+    "Paraffin"
+   ]
+  },
+  {
+   "title": "Wild Flowers",
+   "words": [
+    "Thistle",
+    "Heather",
+    "Bluebell",
+    "Primrose",
+    "Foxglove",
+    "Gorse",
+    "Broom",
+    "Bracken",
+    "Moss",
+    "Lichen",
+    "Sea pink",
+    "Bog cotton"
+   ]
+  },
+  {
+   "title": "More Islands",
+   "words": [
+    "Eigg",
+    "Rum",
+    "Muck",
+    "Canna",
+    "Coll",
+    "Colonsay",
+    "Bute",
+    "Cumbrae",
+    "Benbecula",
+    "Ulva",
+    "Staffa",
+    "St Kilda"
+   ]
+  },
+  {
+   "title": "A Full Scottish Breakfast",
+   "words": [
+    "Tattie scone",
+    "Lorne sausage",
+    "Black pudding",
+    "White pudding",
+    "Bacon",
+    "Eggs",
+    "Beans",
+    "Mushrooms",
+    "Tomato",
+    "Haggis",
+    "Toast",
+    "Brown sauce"
+   ]
+  },
+  {
+   "title": "Sweet Treats",
+   "words": [
+    "Tablet",
+    "Macaroon",
+    "Edinburgh rock",
+    "Soor plooms",
+    "Puff candy",
+    "Toffee",
+    "Fudge",
+    "Boiled sweets",
+    "Humbugs",
+    "Dundee cake",
+    "Cranachan",
+    "Shortbread"
+   ]
+  },
+  {
+   "title": "More Braw Scots Words",
+   "words": [
+    "Clatty",
+    "Drookit",
+    "Fankle",
+    "Gallus",
+    "Haud",
+    "Messages",
+    "Piece",
+    "Skelp",
+    "Sleekit",
+    "Stooshie",
+    "Weans",
+    "Yin"
+   ]
+  },
+  {
+   "title": "Around Glasgow",
+   "words": [
+    "Sauchiehall",
+    "Buchanan",
+    "Argyle",
+    "Byres Road",
+    "Govan",
+    "Partick",
+    "Shawlands",
+    "Dennistoun",
+    "Finnieston",
+    "Gorbals",
+    "Pollok",
+    "Hyndland"
+   ]
+  },
+  {
+   "title": "Fife & Tayside",
+   "words": [
+    "St Andrews",
+    "Crail",
+    "Anstruther",
+    "Pittenweem",
+    "Cupar",
+    "Falkland",
+    "Broughty Ferry",
+    "Carnoustie",
+    "Arbroath",
+    "Forfar",
+    "Kirriemuir",
+    "Blairgowrie"
+   ]
+  },
+  {
+   "title": "The Highlands",
+   "words": [
+    "Ullapool",
+    "Thurso",
+    "Wick",
+    "Dornoch",
+    "Golspie",
+    "Lairg",
+    "Durness",
+    "Tongue",
+    "Aviemore",
+    "Kingussie",
+    "Portree",
+    "Lochinver"
+   ]
+  },
+  {
+   "title": "Borders & the South West",
+   "words": [
+    "Galashiels",
+    "Melrose",
+    "Kelso",
+    "Jedburgh",
+    "Hawick",
+    "Selkirk",
+    "Duns",
+    "Eyemouth",
+    "Langholm",
+    "Moffat",
+    "Stranraer",
+    "Kirkcudbright"
+   ]
+  },
+  {
+   "title": "Through the Ages",
+   "words": [
+    "Bannockburn",
+    "Culloden",
+    "Flodden",
+    "Jacobites",
+    "Picts",
+    "Romans",
+    "Vikings",
+    "Antonine Wall",
+    "Skara Brae",
+    "Clans",
+    "Crown",
+    "Union"
+   ]
+  },
+  {
+   "title": "Pipes & Music",
+   "words": [
+    "Clarsach",
+    "Fiddle",
+    "Smallpipes",
+    "Pibroch",
+    "Mod",
+    "Folk",
+    "Ballad",
+    "Waulking",
+    "Accordion",
+    "Bagpipes",
+    "Drones",
+    "Chanter"
+   ]
+  },
+  {
+   "title": "Up the Hill",
+   "words": [
+    "Rucksack",
+    "Map",
+    "Compass",
+    "Boots",
+    "Cairn",
+    "Summit",
+    "Ridge",
+    "Bothy",
+    "Midges",
+    "Burn",
+    "Trig point",
+    "Munro bagging"
+   ]
+  },
+  {
+   "title": "From the Sea",
+   "words": [
+    "Salmon",
+    "Haddock",
+    "Mackerel",
+    "Herring",
+    "Kippers",
+    "Langoustine",
+    "Mussels",
+    "Scallops",
+    "Smokie",
+    "Crab",
+    "Lobster",
+    "Cod"
+   ]
+  },
+  {
+   "title": "Scottish Breeds",
+   "words": [
+    "Highland pony",
+    "Shetland pony",
+    "Clydesdale",
+    "Border collie",
+    "Westie",
+    "Scottie dog",
+    "Cairn terrier",
+    "Skye terrier",
+    "Gordon setter",
+    "Soay sheep",
+    "Blackface",
+    "Galloway"
+   ]
+  }
+ ],
+ "sudoku": 40,
+ "mazes": 20,
+ "scramble": [
+  {
+   "title": "At the Ceilidh",
+   "hint": "At the Ceilidh",
+   "words": [
+    "Fiddle",
+    "Accordion",
+    "Bagpipes",
+    "Drum",
+    "Reel",
+    "Strathspey",
+    "Gay Gordons",
+    "Eightsome",
+    "Dance",
+    "Caller"
+   ]
+  },
+  {
+   "title": "Wild Flowers",
+   "hint": "Wild Flowers",
+   "words": [
+    "Thistle",
+    "Heather",
+    "Bluebell",
+    "Primrose",
+    "Foxglove",
+    "Gorse",
+    "Broom",
+    "Bracken",
+    "Moss",
+    "Lichen"
+   ]
+  },
+  {
+   "title": "Fife & Tayside",
+   "hint": "Fife & Tayside",
+   "words": [
+    "St Andrews",
+    "Crail",
+    "Anstruther",
+    "Pittenweem",
+    "Cupar",
+    "Falkland",
+    "Carnoustie",
+    "Arbroath",
+    "Forfar",
+    "Kirriemuir"
+   ]
+  },
+  {
+   "title": "Famous Scots",
+   "hint": "Famous Scots",
+   "words": [
+    "Burns",
+    "Scott",
+    "Stevenson",
+    "Wallace",
+    "Bruce",
+    "Baird",
+    "Fleming",
+    "Watt",
+    "Carnegie",
+    "Mackintosh"
+   ]
+  },
+  {
+   "title": "The Highlands",
+   "hint": "The Highlands",
+   "words": [
+    "Ullapool",
+    "Thurso",
+    "Wick",
+    "Dornoch",
+    "Golspie",
+    "Lairg",
+    "Durness",
+    "Tongue",
+    "Aviemore",
+    "Kingussie"
+   ]
+  },
+  {
+   "title": "More Islands",
+   "hint": "More Islands",
+   "words": [
+    "Eigg",
+    "Muck",
+    "Canna",
+    "Coll",
+    "Colonsay",
+    "Bute",
+    "Cumbrae",
+    "Benbecula",
+    "Ulva",
+    "Staffa"
+   ]
+  },
+  {
+   "title": "Up the Hill",
+   "hint": "Up the Hill",
+   "words": [
+    "Rucksack",
+    "Compass",
+    "Boots",
+    "Cairn",
+    "Summit",
+    "Ridge",
+    "Bothy",
+    "Midges",
+    "Burn",
+    "Trig point"
+   ]
+  },
+  {
+   "title": "Hills & Mountains",
+   "hint": "Hills & Mountains",
+   "words": [
+    "Ben Nevis",
+    "Cairngorm",
+    "Ben Lomond",
+    "Ben Macdui",
+    "Munro",
+    "Glencoe",
+    "Cuillin",
+    "Buachaille",
+    "Ben Lawers",
+    "Torridon"
+   ]
+  },
+  {
+   "title": "In the Glen",
+   "hint": "In the Glen",
+   "words": [
+    "Heather",
+    "Thistle",
+    "Bracken",
+    "Glen",
+    "Bothy",
+    "Burn",
+    "Croft",
+    "Stag",
+    "Pine",
+    "Moor"
+   ]
+  },
+  {
+   "title": "Burns Night",
+   "hint": "Burns Night",
+   "words": [
+    "Haggis",
+    "Supper",
+    "Address",
+    "Poem",
+    "Piper",
+    "Toast",
+    "Lassies",
+    "Laddies",
+    "Dram",
+    "Ceilidh"
+   ]
+  },
+  {
+   "title": "Highland Games",
+   "hint": "Highland Games",
+   "words": [
+    "Caber",
+    "Hammer",
+    "Shot put",
+    "Tug of war",
+    "Pipe band",
+    "Dancing",
+    "Chieftain",
+    "Clan",
+    "Tartan",
+    "Relay"
+   ]
+  },
+  {
+   "title": "Pipes & Music",
+   "hint": "Pipes & Music",
+   "words": [
+    "Clarsach",
+    "Fiddle",
+    "Smallpipes",
+    "Pibroch",
+    "Folk",
+    "Ballad",
+    "Waulking",
+    "Accordion",
+    "Bagpipes",
+    "Drones"
+   ]
+  },
+  {
+   "title": "Four Seasons in a Day",
+   "hint": "Four Seasons in a Day",
+   "words": [
+    "Dreich",
+    "Haar",
+    "Smirr",
+    "Drizzle",
+    "Gale",
+    "Squall",
+    "Mist",
+    "Sunshine",
+    "Rainbow",
+    "Sleet"
+   ]
+  },
+  {
+   "title": "Hogmanay",
+   "hint": "Hogmanay",
+   "words": [
+    "First foot",
+    "Bells",
+    "Midnight",
+    "Shortbread",
+    "Black bun",
+    "Coal",
+    "Whisky",
+    "Fireworks",
+    "New Year",
+    "Ceilidh"
+   ]
+  },
+  {
+   "title": "Through the Ages",
+   "hint": "Through the Ages",
+   "words": [
+    "Culloden",
+    "Flodden",
+    "Jacobites",
+    "Picts",
+    "Romans",
+    "Vikings",
+    "Skara Brae",
+    "Clans",
+    "Crown",
+    "Union"
+   ]
+  }
+ ],
+ "vowels": [
+  {
+   "title": "Up the Hill",
+   "hint": "Up the Hill",
+   "words": [
+    "Rucksack",
+    "Compass",
+    "Boots",
+    "Cairn",
+    "Summit",
+    "Ridge",
+    "Bothy",
+    "Midges",
+    "Burn",
+    "Trig point"
+   ]
+  },
+  {
+   "title": "Castles",
+   "hint": "Castles",
+   "words": [
+    "Edinburgh",
+    "Stirling",
+    "Urquhart",
+    "Eilean Donan",
+    "Balmoral",
+    "Dunnottar",
+    "Glamis",
+    "Cawdor",
+    "Blair",
+    "Culzean"
+   ]
+  },
+  {
+   "title": "A Full Scottish Breakfast",
+   "hint": "A Full Scottish Breakfast",
+   "words": [
+    "Tattie scone",
+    "Lorne sausage",
+    "Black pudding",
+    "White pudding",
+    "Bacon",
+    "Eggs",
+    "Beans",
+    "Mushrooms",
+    "Tomato",
+    "Haggis"
+   ]
+  },
+  {
+   "title": "Scottish Wildlife",
+   "hint": "Scottish Wildlife",
+   "words": [
+    "Red deer",
+    "Highland cow",
+    "Red squirrel",
+    "Golden eagle",
+    "Osprey",
+    "Puffin",
+    "Otter",
+    "Pine marten",
+    "Capercaillie",
+    "Wildcat"
+   ]
+  },
+  {
+   "title": "Around Glasgow",
+   "hint": "Around Glasgow",
+   "words": [
+    "Sauchiehall",
+    "Buchanan",
+    "Argyle",
+    "Byres Road",
+    "Govan",
+    "Partick",
+    "Shawlands",
+    "Dennistoun",
+    "Finnieston",
+    "Gorbals"
+   ]
+  },
+  {
+   "title": "Hogmanay",
+   "hint": "Hogmanay",
+   "words": [
+    "First foot",
+    "Bells",
+    "Midnight",
+    "Shortbread",
+    "Black bun",
+    "Coal",
+    "Whisky",
+    "Auld Lang Syne",
+    "Fireworks",
+    "Street party"
+   ]
+  },
+  {
+   "title": "Through the Ages",
+   "hint": "Through the Ages",
+   "words": [
+    "Bannockburn",
+    "Culloden",
+    "Flodden",
+    "Jacobites",
+    "Picts",
+    "Romans",
+    "Vikings",
+    "Antonine Wall",
+    "Skara Brae",
+    "Clans"
+   ]
+  },
+  {
+   "title": "From the Sea",
+   "hint": "From the Sea",
+   "words": [
+    "Salmon",
+    "Haddock",
+    "Mackerel",
+    "Herring",
+    "Kippers",
+    "Langoustine",
+    "Mussels",
+    "Scallops",
+    "Smokie",
+    "Crab"
+   ]
+  },
+  {
+   "title": "Auld Reekie: Edinburgh",
+   "hint": "Auld Reekie: Edinburgh",
+   "words": [
+    "Castle",
+    "Royal Mile",
+    "Holyrood",
+    "Calton Hill",
+    "Fringe",
+    "Tattoo",
+    "Princes Street",
+    "Grassmarket",
+    "Leith",
+    "Meadows"
+   ]
+  },
+  {
+   "title": "More Islands",
+   "hint": "More Islands",
+   "words": [
+    "Eigg",
+    "Muck",
+    "Canna",
+    "Coll",
+    "Colonsay",
+    "Bute",
+    "Cumbrae",
+    "Benbecula",
+    "Ulva",
+    "Staffa"
+   ]
+  },
+  {
+   "title": "Scottish Breeds",
+   "hint": "Scottish Breeds",
+   "words": [
+    "Highland pony",
+    "Shetland pony",
+    "Clydesdale",
+    "Border collie",
+    "Westie",
+    "Scottie dog",
+    "Cairn terrier",
+    "Skye terrier",
+    "Gordon setter",
+    "Soay sheep"
+   ]
+  },
+  {
+   "title": "Highland Games",
+   "hint": "Highland Games",
+   "words": [
+    "Caber",
+    "Hammer",
+    "Shot put",
+    "Tug of war",
+    "Pipe band",
+    "Dancing",
+    "Chieftain",
+    "Clan",
+    "Tartan",
+    "Relay"
+   ]
+  },
+  {
+   "title": "The Clans",
+   "hint": "The Clans",
+   "words": [
+    "MacDonald",
+    "Campbell",
+    "Stewart",
+    "MacLeod",
+    "Fraser",
+    "Gordon",
+    "MacKenzie",
+    "Murray",
+    "Robertson",
+    "MacGregor"
+   ]
+  },
+  {
+   "title": "Scottish Firsts",
+   "hint": "Scottish Firsts",
+   "words": [
+    "Television",
+    "Telephone",
+    "Penicillin",
+    "Kaleidoscope",
+    "Ultrasound",
+    "Raincoat",
+    "Logarithms",
+    "Cloning",
+    "Golf",
+    "Curling"
+   ]
+  },
+  {
+   "title": "Famous Scots",
+   "hint": "Famous Scots",
+   "words": [
+    "Burns",
+    "Scott",
+    "Stevenson",
+    "Wallace",
+    "Bruce",
+    "Baird",
+    "Fleming",
+    "Watt",
+    "Carnegie",
+    "Mackintosh"
+   ]
+  }
+ ],
+ "quotes": [
+  "Lang may yer lum reek.",
+  "Whit's fur ye'll no go by ye.",
+  "Mony a mickle maks a muckle.",
+  "Haste ye back.",
+  "Here's tae us, wha's like us.",
+  "Be happy while ye're leevin, for ye're a lang time deid.",
+  "Keep the heid.",
+  "We'll tak a cup o' kindness yet, for auld lang syne.",
+  "O my Luve is like a red, red rose.",
+  "The best laid schemes o' mice an' men gang aft agley.",
+  "Facts are chiels that winna ding.",
+  "Ye cannae shove yer granny aff a bus.",
+  "It's a sair fecht.",
+  "My heart's in the Highlands, my heart is not here.",
+  "A man's a man for a' that."
+ ]
+}
